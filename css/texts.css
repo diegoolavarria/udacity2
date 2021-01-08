@@ -1,0 +1,9 @@
+.bold_p {
+  font-weight: 700;
+}
+.italic_p {
+  font-style: italic;
+}
+.underline_p {
+  text-decoration: underline;
+}
